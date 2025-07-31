@@ -4,17 +4,17 @@
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
-  "EMAIL": "sanjivfresh@gmail.com",
+  "BOTNAME": "sumaya",
+  "EMAIL": "hartidhaker@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "100087174605141"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "100087174605141"
   ],
-  "OWNER": ["100075122837809"],
+  "OWNER": ["100087174605141"],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase"
